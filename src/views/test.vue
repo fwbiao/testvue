@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-<div class=''>fjldjfo</div>
+<div class=''></div>
 </template>
 
 <script>
